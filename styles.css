@@ -1,0 +1,47 @@
+.btn-primary {
+  background-color: #C271FF !important;
+}
+
+.bg-primary {
+  color:#C271FF;
+}
+
+.primary {
+  color: #C271FF;S
+}
+
+.homepage-body {
+  background-image: url('./images/background.png');
+  background-repeat: no-repeat;
+}
+
+.card-image-top {
+  width: 100%;
+  object-fit:;
+}
+
+.phillip-video {
+  width: 15% !important;
+}
+
+/* Pricing page */
+
+.pricing-body {
+  background-image: url('./images/pricing-background.png');
+  background-repeat: no-repeat;
+}
+
+/* courses page */
+
+.courses-body {
+  background-image: url('./images/background-courses.png');
+  background-repeat: no-repeat;
+}
+
+ h3 #what-is-smileschool {
+  font-size:;
+}
+
+.navbar-toggler-icon {
+  color: white;
+}
