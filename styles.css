@@ -80,6 +80,9 @@ img #quote-img {
 .pricing-body {
   background-image: url('./images/pricing-background.png');
   background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vh;
+
 }
 
 /* courses page */
@@ -87,6 +90,12 @@ img #quote-img {
 .courses-body {
   background-image: url('./images/background-courses.png');
   background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vh;
+}
+
+#hero {
+  background-color: var(--color-secondary);
 }
 
  h3 #what-is-smileschool {
@@ -96,3 +105,4 @@ img #quote-img {
 .navbar-toggler-icon {
   color: white;
 }
+
