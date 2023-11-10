@@ -1,18 +1,69 @@
+:root {
+  --color-primary: #C271FF;
+  --color-secondary: #071629;
+}
+
+html {
+  font-family: 'Source Sans Pro';
+}
+
 .btn-primary {
   background-color: #C271FF !important;
 }
 
-.bg-primary {
+.custom-pill {
+  border-color: var(--color-primary) !important;
+}
+
+#learn {
   color:#C271FF;
+  margin-right: 10px;
+}
+
+h1, h2, h3 {
+  font-family: 'Source Sans Pro' !important;
+}
+
+#get-schooled {
+  font-size: 100px;
+  font-weight: 900 !important;
+}
+
+.quote-container img {
+  width: 50% !important;
+}
+
+img #quote-img {
+  width: 50% !important;
+}
+
+.bg-primary {
+  background-color:var(--color-primary) !important;
 }
 
 .primary {
-  color: #C271FF;S
+  color: #C271FF;
 }
 
 .homepage-body {
   background-image: url('./images/background.png');
   background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vh;
+}
+
+#smileschool-footer {
+  color: white !important;
+  font-size: small;
+}
+
+#phil-quote {
+  width: 50%;
+}
+
+.custom-h1 {
+  font-size: 32px;
+  font-weight: bold;
 }
 
 .card-image-top {
